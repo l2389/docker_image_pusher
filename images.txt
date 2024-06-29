@@ -9,12 +9,12 @@
 --platform=linux/arm64  linuxserver/duplicati:latest
 --platform=linux/arm64 hectorqin/reader:openj9-latest
 --platform=linux/arm64 sissbruecker/linkding:latest
---platform=linux/arm64 portainer/portainer-ce
+#--platform=linux/arm64 portainer/portainer-ce
 --platform=linux/arm64 deluan/navidrome:latest
 --platform=linux/arm64 linuxserver/freshrss:arm64v8-1.16.0-ls55
 --platform=linux/arm64 neosmemo/memos:stable
 --platform=linux/arm64 80x86/typecho:latest
---platform=linux/arm64 80x86/lychee:latest
+#--platform=linux/arm64 80x86/lychee:latest
 --platform=linux/arm64 linuxserver/syncthing
 --platform=linux/arm64 vaultwarden/server:latest
 --platform=linux/arm64 laoyutang/clash-and-dashboard:latest
@@ -29,8 +29,8 @@
 --platform=linux/arm64 chishin/wol-go-web:latest
 #--platform=linux/arm64 hjh142857/leanote_n1
 #--platform=linux/arm64 xjxjin/wiznote-mod:1.0.31
---platform=linux/arm64 linuxserver/dokuwiki
---platform=linux/arm64 frooodle/s-pdf:latest
+#--platform=linux/arm64 linuxserver/dokuwiki
+#--platform=linux/arm64 frooodle/s-pdf:latest
 #--platform=linux/arm64 jysky007/cups:v1
 
 
