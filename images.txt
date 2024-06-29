@@ -13,7 +13,7 @@
 --platform=linux/arm64 deluan/navidrome:latest
 #--platform=linux/arm64 linuxserver/freshrss:arm64v8-1.16.0-ls55
 --platform=linux/arm64 neosmemo/memos:stable
-#--platform=linux/arm64 80x86/typecho:latest
+--platform=linux/arm64 80x86/typecho:latest
 #--platform=linux/arm64 80x86/lychee:latest
 #--platform=linux/arm64 linuxserver/syncthing
 --platform=linux/arm64 vaultwarden/server:latest
