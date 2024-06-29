@@ -1,7 +1,7 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 gdy666/lucky
@@ -22,16 +22,16 @@ xhofe/alist:latest
 --platform=linux/arm64 rustdesk-api-server
 --platform=linux/arm64 rustdesk/rustdesk-server:latest-arm64v8
 --platform=linux/arm64 nriver/trilium-cn:latest
---platform=linux/arm64 lstcml/n1_zerotier
---platform=linux/arm64 tailscale/tailscale
---platform=linux/arm64 lstcml/oray
---platform=linux/arm64 jeessy/ddns-go
+#--platform=linux/arm64 lstcml/n1_zerotier
+#--platform=linux/arm64 tailscale/tailscale
+#--platform=linux/arm64 lstcml/oray
+#--platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 chishin/wol-go-web:latest
---platform=linux/arm64 hjh142857/leanote_n1
---platform=linux/arm64 xjxjin/wiznote-mod:1.0.31
+#--platform=linux/arm64 hjh142857/leanote_n1
+#--platform=linux/arm64 xjxjin/wiznote-mod:1.0.31
 --platform=linux/arm64 linuxserver/dokuwiki
 --platform=linux/arm64 frooodle/s-pdf:latest
---platform=linux/arm64 jysky007/cups:v1
+#--platform=linux/arm64 jysky007/cups:v1
 
 
 
