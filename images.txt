@@ -18,7 +18,7 @@
 #--platform=linux/arm64 linuxserver/syncthing
 --platform=linux/arm64 vaultwarden/server:latest
 #--platform=linux/arm64 laoyutang/clash-and-dashboard:latest
---platform=linux/arm64  ddsderek/easyimage:v2.8.4
+--platform=linux/arm64  ddsderek/easyimage:latest
 #--platform=linux/arm64 rustdesk-api-server
 #--platform=linux/arm64 rustdesk/rustdesk-server:latest-arm64v8
 --platform=linux/arm64 nriver/trilium-cn:latest
