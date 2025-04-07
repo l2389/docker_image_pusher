@@ -6,7 +6,10 @@ gdy666/lucky:latest
 hectorqin/reader:openj9-latest 
 dr34m/tao-sync:latest
 neosmemo/memos:stable
+dullage/flatnotes:latest
+lanzhihong/stock-scanner:latest
+cloudflare/cloudflared:latest
 #支持指定架构
-# --platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 ddsderek/easyimage:v2.8.0
 
