@@ -9,8 +9,8 @@ neosmemo/memos:stable
 dullage/flatnotes:latest
 lanzhihong/stock-scanner:latest
 cloudflare/cloudflared:latest
-lampon/omnibox:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 ddsderek/easyimage:v2.8.0
+--platform=linux/arm64 lampon/omnibox:latest
 
