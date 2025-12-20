@@ -14,5 +14,3 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 ddsderek/easyimage:v2.8.0
 --platform=linux/arm64 lampon/omnibox:latest
 --platform=linux/arm gotify/server:latest
-
- 
