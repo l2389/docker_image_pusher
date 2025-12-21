@@ -15,3 +15,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 lampon/omnibox:latest
 --platform=linux/arm64 metacubex/mihomo:latest
 --platform=linux/arm64 gzxhwq/metacubexd:latest
+--platform=linux/arm64 metacubex/subconverter
