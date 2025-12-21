@@ -14,3 +14,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 ddsderek/easyimage:v2.8.0
 --platform=linux/arm64 lampon/omnibox:latest
 --platform=linux/arm64 metacubex/mihomo:latest
+--platform=linux/arm64 ghcr.io/metacubex/metacubexd:latest
