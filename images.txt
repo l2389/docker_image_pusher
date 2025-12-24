@@ -16,4 +16,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 gzxhwq/metacubexd:latest
 --platform=linux/arm64 metacubex/subconverter
 --platform=linux/arm64 triliumnext/trilium:latest
---platform=linux/arm64 gdy666/lucky:latest
+--platform=linux/arm64 gdy666/lucky:2.24.0
