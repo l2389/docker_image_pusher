@@ -16,3 +16,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 metacubex/mihomo:latest
 --platform=linux/arm64 gzxhwq/metacubexd:latest
 --platform=linux/arm64 metacubex/subconverter
+--platform=linux/arm64 triliumnext/trilium:latest
