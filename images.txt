@@ -19,3 +19,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 gdy666/lucky:2.24.0
 --platform=linux/arm64 openlistteam/openlist:latest
 --platform=linux/arm64 su3817807/ctyun:latest
+--platform=linux/arm64 cyb3rdoc/onenvr:latest
