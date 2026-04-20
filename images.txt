@@ -20,4 +20,4 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 su3817807/ctyun:latest
 --platform=linux/arm64 cyb3rdoc/onenvr:latest
 --platform=linux/arm64 xhofe/alist:latest
---platform=linux/arm64 givenge/reader-rust:latest-aarch64
+--platform=linux/arm64 docker pull givenge/reader-rust:latest
