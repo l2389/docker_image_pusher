@@ -1,19 +1,17 @@
 #nginx
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-hectorqin/reader:openj9-latest 
-dr34m/tao-sync:latest
-neosmemo/memos:stable
-dullage/flatnotes:latest
-lanzhihong/stock-scanner:latest
-cloudflare/cloudflared:latest
+
+# dullage/flatnotes:latest
+# lanzhihong/stock-scanner:latest
+# cloudflare/cloudflared:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 ddsderek/easyimage:v2.8.0
 --platform=linux/arm64 lampon/omnibox:latest
 --platform=linux/arm64 metacubex/mihomo:latest
 --platform=linux/arm64 gzxhwq/metacubexd:latest
---platform=linux/arm64 metacubex/subconverter
+--platform=linux/arm64 dr34m/tao-sync:latest
 --platform=linux/arm64 triliumnext/trilium:latest
 --platform=linux/arm64 gdy666/lucky:2.24.0
 --platform=linux/arm64 openlistteam/openlist:latest
@@ -21,3 +19,5 @@ cloudflare/cloudflared:latest
 --platform=linux/arm64 cyb3rdoc/onenvr:latest
 --platform=linux/arm64 xhofe/alist:latest
 --platform=linux/arm64 givenge/reader-rust:latest-aarch64
+--platform=linux/arm64 hectorqin/reader:openj9-latest 
+--platform=linux/arm64 neosmemo/memos:stable
