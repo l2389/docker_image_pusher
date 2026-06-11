@@ -24,4 +24,4 @@
 --platform=linux/arm64 xcq0607/lxserver:latest
 --platform=linux/arm64 songloft/songloft:latest
 --platform=linux/arm64 deluan/navidrome:latest
---platform=linux/arm64 tsl0922/ttyd:latest
+--platform=linux/arm64 chaoszhu/easynode:latest
