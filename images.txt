@@ -24,3 +24,4 @@
 --platform=linux/arm64 songloft/songloft:latest
 --platform=linux/arm64 deluan/navidrome:latest
 --platform=linux/arm64 chaoszhu/easynode:latest
+--platform=linux/arm64 gangz1o/glash:latest
