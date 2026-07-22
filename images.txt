@@ -21,7 +21,7 @@
 --platform=linux/arm64 hectorqin/reader:openj9-latest 
 --platform=linux/arm64 neosmemo/memos:stable
 --platform=linux/arm64 xcq0607/lxserver:latest
---platform=linux/arm64 songloft/songloft:latest
+--platform=linux/arm64  songloft/songloft:latest
 --platform=linux/arm64 deluan/navidrome:latest
 --platform=linux/arm64 chaoszhu/easynode:latest
 --platform=linux/arm64 gangz1o/glash:latest
