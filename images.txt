@@ -25,3 +25,4 @@
 --platform=linux/arm64 deluan/navidrome:latest
 --platform=linux/arm64 chaoszhu/easynode:latest
 --platform=linux/arm64 gangz1o/glash:latest
+--platform=linux/arm64 changshengyu/reader:openj9-latest
